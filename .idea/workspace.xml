@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1420cc6-8e6d-4ee4-a9dd-1522fb2dffc7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ProcessStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/StringOperations.java" afterDir="false" />
+    <list default="true" id="e1420cc6-8e6d-4ee4-a9dd-1522fb2dffc7" name="Changes" comment="ss">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/ProcessStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/ProcessStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664807827895</updated>
     </task>
+    <task id="LOCAL-00001" summary="ss">
+      <created>1664819839311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664819839311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +90,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ss" />
+    <option name="LAST_COMMIT_MESSAGE" value="ss" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

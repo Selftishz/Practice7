@@ -8,12 +8,13 @@ public class ProcessStrings implements StringOperations {
 
     public String oddPos(String s) {
         String newString = "";
-        int j = 0;
-        for (int i = 0; i < s.length(); i++) {
+        int i = 0, j = 0;
+        while (i != s.length()) {
             if (j % 2 != 0) {
-                newString += s.charAt(j);
-                j++;
+                newString += s.charAt(i);
+                i++;
             } else newString += "_";
+            j++;
         }
         return newString;
     }
